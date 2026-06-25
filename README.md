@@ -99,7 +99,6 @@ private static final String PASSWORD = "password_kamu";
 ---
 
 ## Screenshots
-<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/5725031f-487a-4963-8c7e-513567b718c4" />
 
 _(tambahkan screenshot setelah program berjalan)_
 
