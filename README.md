@@ -4,9 +4,9 @@
 
 | Field      | Isi                                      |
 |------------|------------------------------------------|
-| Name       | _(isi nama kamu)_                        |
-| Student ID | _(isi NRP kamu)_                         |
-| Class      | ES234211 – Programming Fundamental       |
+| Name       | Muhammad Naufal Akmal Ali Fanri          |
+| Student ID | 5026251191                               |
+| Class      | A                                        |
 
 ---
 
