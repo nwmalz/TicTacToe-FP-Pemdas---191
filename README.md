@@ -12,7 +12,7 @@
 
 ## Project Description
 
-Aplikasi permainan Tic-Tac-Toe berbasis Java Swing dengan fitur login menggunakan database PostgreSQL, pencatatan statistik per pemain, dan tampilan Top 5 Scorers. Pemain berlomba melawan komputer yang menggunakan algoritma **Minimax** untuk menentukan langkah terbaik.
+Aplikasi permainan Tic-Tac-Toe berbasis Java Swing dengan fitur login menggunakan database PostgreSQL, pencatatan statistik per pemain, dan tampilan Top 5 Scorers leaderboard. Pemain melawan komputer yang menggunakan algoritma **random** untuk menentukan langkah.
 
 ---
 
@@ -70,9 +70,9 @@ Aplikasi permainan Tic-Tac-Toe berbasis Java Swing dengan fitur login menggunaka
 
 ### 3. Konfigurasi DatabaseManager.java
 ```java
-private static final String URL      = "jdbc:postgresql://localhost:5432/game_project";
+private static final String URL      = "jdbc:postgresql://localhost:5433/game_project";
 private static final String USER     = "postgres";
-private static final String PASSWORD = "password_kamu";
+private static final String PASSWORD = "akmal01073123";
 ```
 
 ### 4. Jalankan
@@ -83,7 +83,7 @@ private static final String PASSWORD = "password_kamu";
 
 ## Class Explanation
 
-| Class             | Tanggung Jawab                                              |
+| Class             | Fungsi                                                      |
 |-------------------|-------------------------------------------------------------|
 | Main              | Entry point, membuka LoginFrame                            |
 | DatabaseManager   | Menyediakan koneksi JDBC ke PostgreSQL                     |
@@ -99,6 +99,9 @@ private static final String PASSWORD = "password_kamu";
 ---
 
 ## Screenshots
+<img width="311" height="195" alt="image" src="https://github.com/user-attachments/assets/dc01dd2a-8f56-471e-b5bf-095df408faf0" />, <img width="316" height="183" alt="image" src="https://github.com/user-attachments/assets/fbe3133d-2c27-4f5b-9460-f8006e5dbe55" />
+
+
 
 _(tambahkan screenshot setelah program berjalan)_
 
