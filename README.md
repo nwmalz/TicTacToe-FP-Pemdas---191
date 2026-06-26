@@ -95,7 +95,7 @@ private static final String PASSWORD = "akmal01073123";
 | GameFrame         | Window permainan Tic-Tac-Toe interaktif                    |
 | StatisticsFrame   | Window statistik pribadi pemain                            |
 | TopScorersFrame   | Window Top 5 Scorers menggunakan JTable                    |
-
+.
 ---
 
 ## Screenshots
