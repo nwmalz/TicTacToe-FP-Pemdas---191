@@ -20,7 +20,7 @@ Aplikasi permainan Tic-Tac-Toe berbasis Java Swing dengan fitur login menggunaka
 
 - Login menggunakan data dari database (username & password)
 - Papan Tic-Tac-Toe interaktif berbasis JButton 3x3
-- Komputer menggunakan algoritma Minimax
+- Komputer menggunakan algoritma random
 - Deteksi otomatis: menang, kalah, dan seri
 - Statistik (wins, losses, draws, score) tersimpan di database setelah setiap game
 - Halaman Statistik Pribadi yang diambil langsung dari database
@@ -89,7 +89,7 @@ private static final String PASSWORD = "akmal01073123";
 | DatabaseManager   | Menyediakan koneksi JDBC ke PostgreSQL                     |
 | Player            | Model data pemain (id, username, statistik)                |
 | PlayerService     | Operasi database: login, update statistik, Top 5           |
-| GameLogic         | Logika board: validasi move, cek menang/seri, AI Minimax   |
+| GameLogic         | Logika board: validasi move, cek menang/seri, AI Random    |
 | LoginFrame        | Window login                                               |
 | MainMenuFrame     | Window navigasi utama setelah login                        |
 | GameFrame         | Window permainan Tic-Tac-Toe interaktif                    |
