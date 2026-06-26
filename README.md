@@ -125,4 +125,4 @@ private static final String PASSWORD = "akmal01073123";
 YouTube: [_(isi link video)_](https://youtu.be/OInEZr8-Ey0)
 
 ## GitHub Link
-_(isi link repository)_
+[_(isi link repository)_](https://github.com/nwmalz/FP-Pemdas-TicTacToe-Muhammad-Naufal-Akmal-Ali-Fanri-5026251191)
