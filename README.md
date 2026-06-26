@@ -103,22 +103,22 @@ private static final String PASSWORD = "akmal01073123";
 ### Login
 | Form Login | Login Berhasil | Login Gagal |
 |:---:|:---:|:---:|
-| <img src="..." width="250"/> | <img src="..." width="250"/> | <img src="..." width="250"/> |
+| <img width="311" height="195" alt="Screenshot 2026-06-26 093106" src="https://github.com/user-attachments/assets/b5143a21-89d4-41b5-8c1b-62f589968fa8" /> | <img width="316" height="183" alt="Screenshot 2026-06-26 093122" src="https://github.com/user-attachments/assets/6407dcd3-d51e-4e0e-a79e-770200158b28" /> | <img width="302" height="189" alt="Screenshot 2026-06-26 093216" src="https://github.com/user-attachments/assets/547c6db5-bf14-42fa-b3df-511775d7f956" /> |
 
 ### Main Menu & Game
 | Main Menu | Mulai Game |
 |:---:|:---:|
-| <img src="..." width="250"/> | <img src="..." width="250"/> |
+| <img width="244" height="218" alt="Screenshot 2026-06-26 093244" src="https://github.com/user-attachments/assets/7efe7257-4d7c-4a95-ba06-ca8c4e0c4221" /> | <img width="298" height="356" alt="Screenshot 2026-06-26 093326" src="https://github.com/user-attachments/assets/59c8787b-f2fd-4060-8a1e-f7b318747880" /> |
 
 ### Kondisi Game
 | Menang | Kalah | Draw |
 |:---:|:---:|:---:|
-| <img src="..." width="250"/> | <img src="..." width="250"/> | <img src="..." width="250"/> |
+| <img width="306" height="362" alt="Screenshot 2026-06-26 093412" src="https://github.com/user-attachments/assets/587fc5a8-c8b8-41f0-a97b-3b169a2d1c3f" /> | <img width="296" height="359" alt="Screenshot 2026-06-26 093429" src="https://github.com/user-attachments/assets/43a1035b-15f0-4284-a5c7-d249df8793ab" /> | <img width="299" height="356" alt="Screenshot 2026-06-26 093448" src="https://github.com/user-attachments/assets/69aa34cd-41d2-45ff-8286-e80acf24f8b8" /> |
 
 ### Statistik & Leaderboard
 | Statistik | Top 5 Scorers | Keluar |
 |:---:|:---:|:---:|
-| <img src="..." width="250"/> | <img src="..." width="250"/> | <img src="..." width="250"/> |
+| <img width="254" height="225" alt="Screenshot 2026-06-26 093508" src="https://github.com/user-attachments/assets/d96089e9-266c-4839-b636-01892fc598be" /> | <img width="379" height="196" alt="Screenshot 2026-06-26 093547" src="https://github.com/user-attachments/assets/c1345615-494b-4345-8056-bca4e9fa3c63" /> | <img width="251" height="220" alt="Screenshot 2026-06-26 093608" src="https://github.com/user-attachments/assets/9182d381-83bb-4077-8bd6-9f332e639006" /> |
 ---
 
 ## Video Link
