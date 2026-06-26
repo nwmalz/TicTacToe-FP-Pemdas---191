@@ -66,7 +66,7 @@ Aplikasi permainan Tic-Tac-Toe berbasis Java Swing dengan fitur login menggunaka
 
 ### 2. Tambahkan PostgreSQL JDBC Driver
 - Download di: https://jdbc.postgresql.org/download/
-- Di IntelliJ: File → Project Structure → Libraries → + → Java → pilih file .jar
+- Di VSCode: File → Project Structure → Libraries → + → Java → pilih file .jar
 
 ### 3. Konfigurasi DatabaseManager.java
 ```java
