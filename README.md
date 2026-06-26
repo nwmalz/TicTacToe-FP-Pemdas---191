@@ -2,7 +2,6 @@
 
 ## Student Information
 
-                                 |
 |------------|------------------------------------------|
 | Name       | Muhammad Naufal Akmal Ali Fanri          |
 | Student ID | 5026251191                               |
