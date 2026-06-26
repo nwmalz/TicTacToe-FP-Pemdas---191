@@ -72,7 +72,7 @@ Aplikasi permainan Tic-Tac-Toe berbasis Java Swing dengan fitur login menggunaka
 ```java
 private static final String URL      = "jdbc:postgresql://localhost:5433/game_project";
 private static final String USER     = "postgres";
-private static final String PASSWORD = "akmal01073123";
+private static final String PASSWORD = "password saya";
 ```
 
 ### 4. Jalankan
